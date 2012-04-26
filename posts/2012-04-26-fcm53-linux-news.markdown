@@ -3,7 +3,7 @@ layout: post
 title: "53期 - Linux 新闻"
 date: 2012-04-26 18:42
 comments: true
-categories: Linux News
+categories: issue53
 ---
 ## Ubuntu Store 对应用程序开发者开放 ##
 

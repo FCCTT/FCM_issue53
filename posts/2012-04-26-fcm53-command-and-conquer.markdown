@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "53期 - 决胜命令行"
+title: "53期 - 决胜命令行 - 当日消息"
 date: 2012-04-26 20:07
 comments: true
 categories: issue53

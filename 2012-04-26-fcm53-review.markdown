@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "53期 - Linux Mint 11"
+title: "53期 - 评测 - Linux Mint 11"
 date: 2012-04-26 20:14
 comments: true
 categories: issue53 review

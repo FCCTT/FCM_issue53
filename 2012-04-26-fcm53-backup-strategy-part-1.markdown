@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "53期 - 备份策略 - 第一部分"
+title: "53期 - 备份策略 - 第1部分"
 date: 2012-04-26 20:14
 comments: true
 categories: issue53 HOW-TO backup-strategy

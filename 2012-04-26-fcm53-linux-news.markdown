@@ -21,6 +21,8 @@ Canonical公司也同样需要这样类似的多平台服务，这也正是他�
 
 来源：[geek.com](http://geek.com)
 
+<!--more-->
+
 ## GNOME 3.2 发布
 
 GNOME 3.2 final已经发布，”自上一个3.0版本以来，已经有1270多人为GNOME进行了多达38500多项改进”。

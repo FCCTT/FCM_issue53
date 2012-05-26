@@ -16,6 +16,8 @@ categories: issue53 command-and-conquer
 
 ### 关于文件
 
+<!--more-->
+
 对于Ubuntu服务器（以及桌面版），需要去编辑`/etc/motd.tail`和`/etc/motd`，以确保.tail文件在系统重启之后不会重写`/etc/motd`文件。 对于较新版本的Ubuntu，文件可能位于`/etc/update-motd.d/`目录。 这看来是update-motd软件包导致的，但是这些文件已经被清楚地命名了并且便于编辑。
 
 ### 有用的命令

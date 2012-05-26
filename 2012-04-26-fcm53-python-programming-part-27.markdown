@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "53期 - [HOW-TO] Python 编程 - 第27部分"
+title: "53期 - Python 编程 - 第27部分"
 date: 2012-04-26 20:11
 comments: true
-categories: issue53
+categories: issue53 HOW-TO Python
 ---
 `作者：Greg Walters | 翻译：文宁 校对：李蹊 吴云`
 

@@ -5,6 +5,7 @@ date: 2012-04-26 20:07
 comments: true
 categories: issue53 command-and-conquer
 ---
+
 `作者：Lucus Westermann | 翻译：charliephil 校对：吴云 顾履冰`
 
 > 关于52期的决胜命令行：热心的Gord Gampbell指出中文可以竖写，这点与我之前的设想大相径庭。
